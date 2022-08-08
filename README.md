@@ -10,14 +10,9 @@
  
 <div> 
  
+![R (2)](https://user-images.githubusercontent.com/110546829/182630395-fdf20ed7-8d8c-4fd8-b8ef-a5ed25da649d.png)
 
  
   ![Snake animation](https://raw.githubusercontent.com/rafaballerini/rafaballerini/a7fcec19b2830125e9c49ba9139a9dad95f0b64a/github-contribution-grid-snake.svg)
  
 </div>
-
-
-
-</div>
-
-  ![R (2)](https://user-images.githubusercontent.com/110546829/182630395-fdf20ed7-8d8c-4fd8-b8ef-a5ed25da649d.png)
