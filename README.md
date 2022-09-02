@@ -19,7 +19,7 @@
 Slash Web@github
 ----------------
 
-Languages  :  Python, csharp
+Languages  :  Python csharp
       CPU  :  Ryzen 3200g
      Orgs  :  xrc
 
