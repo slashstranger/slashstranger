@@ -16,10 +16,10 @@
 ```py
 
 
-Slash Web@github
+Slash @github
 ----------------
 
-Languages  :  Python csharp
+Languages  :  c# and python
       CPU  :  Ryzen 3200g
      Orgs  :  xrc
 
