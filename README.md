@@ -20,7 +20,7 @@ Slash @github
 ----------------
 
 Languages  :  c# and python
-      CPU  :  Ryzen 3200g
+      CPU  :  r9 7900x
      Orgs  :  xrc
 
   
