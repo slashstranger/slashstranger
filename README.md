@@ -20,8 +20,8 @@ Slash @github
 ----------------
 
 Languages  :  c# and python
-      CPU  :  r9 7900x
-     Orgs  :  xrc
+Developer  :  Slash Client v7
+
 
   
 ```
