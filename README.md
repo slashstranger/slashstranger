@@ -20,7 +20,7 @@ Slash @github
 ----------------
 
 Languages  :  c# and python
-Developer  :  Slash Client v6
+Developer  :  Aimbot External
 Guns N' Roses 🖤🎩
 
   
