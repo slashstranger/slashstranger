@@ -11,7 +11,7 @@
 > They fear the Slash!
 
 ```
-<img src="https://cdn.discordapp.com/attachments/975703159982923848/998890107492909136/200w.gif" align="left" src="https://media.discordapp.net/attachments/975703159982923848/995337889321844886/1657350460774.jpg?width=682&height=682" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
+<img src="https://cdn.discordapp.com/attachments/1083107952707244062/1134248812798550109/Ayumi1.gif" align="left" src="https://media.discordapp.net/attachments/975703159982923848/995337889321844886/1657350460774.jpg?width=682&height=682" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
 
 ```py
 
