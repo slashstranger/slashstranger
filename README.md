@@ -19,7 +19,7 @@
 Slash @github
 ----------------
 
-Languages  :  c# and python
+Languages  :  c# - js - py
 Developer  :  Undetect Bypass
 Né segredo
 
