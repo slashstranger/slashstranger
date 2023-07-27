@@ -20,8 +20,8 @@ Slash @github
 ----------------
 
 Languages  :  c# and python
-Developer  :  Aimbot External
-Guns N' Roses 🖤🎩
+Developer  :  Undetect Bypass
+Né segredo
 
   
 ```
