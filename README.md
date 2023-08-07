@@ -20,7 +20,7 @@ Slash @github
 ----------------
 
 Languages  :  c# - c++ - py
-Developer  :  Undetect Bypass FiveM
+Developer  :  fir3.cc
 Né segredo
 
   
