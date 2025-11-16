@@ -20,7 +20,7 @@ Slash @github
 ----------------
 
 Languages  :  c# - c++ - py
-Developer  :  fir3.cc
+Developer  :  fir3.cc - desativei
 Né segredo
 
   
