@@ -21,6 +21,8 @@ Slash @github
 
 Languages  :  c# - c++ - py
 Developer  :  fir3.cc - desativei
+FUI BANIDO <img width="402" height="59" alt="image" src="https://github.com/user-attachments/assets/a47e893e-3a67-4168-b0c1-085c9955c5f5" />
+
 Né segredo
 
   
