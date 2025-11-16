@@ -11,7 +11,7 @@
 > They fear the Slash!
 
 ```
-<img src="https://cdn.discordapp.com/attachments/1141425814290845757/1144023471718940702/200.gif?ex=663559e2&is=66340862&hm=506ca65fb6e69c4281c41c9c2e298582e333b7823e1240c393e65eed4d038671&" align="left" src="https://media.discordapp.net/attachments/975703159982923848/995337889321844886/1657350460774.jpg?width=682&height=682" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
+<img src="" align="left" src="https://cdn.discordapp.com/attachments/1311502369137098864/1439537187023487137/3fb721f35f3295d1ad70300cf03e638d.png?ex=691ae0fa&is=69198f7a&hm=ce8db6386459f7bddd73ac285043fbfc66d59b959a2f572b194f3973d4c216e9&" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
 
 ```py
 
@@ -21,8 +21,6 @@ Slash @github
 
 Languages  :  c# - c++ - py
 Developer  :  fir3.cc - desativei
-DC/YT DELETADOS.
-
 Né segredo
 
   
